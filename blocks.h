@@ -18,7 +18,7 @@ typedef struct {
 
 static const Block blocks[] = {
 	/*Icon*/ /*Func*/   /*interval*/  /*Signal*/
-	{"  ",     bat,           30,           0},
+	{"",     bat,           30,           0},
 	{"  ",     memory,        30,           0},
 	{"  ",     date,          30,           0}
 
